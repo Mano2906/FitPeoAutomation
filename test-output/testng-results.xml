@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-29T19:35:54 IST" name="Default suite" finished-at="2024-11-29T19:36:30 IST" duration-ms="35267">
+    <groups>
+    </groups>
+    <test started-at="2024-11-29T19:35:54 IST" name="Default test" finished-at="2024-11-29T19:36:30 IST" duration-ms="35267">
+      <class name="Test.RevenueCalculator_TC">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.RevenueCalculator_TC@59402b8f]" started-at="2024-11-29T19:35:55 IST" name="setup" finished-at="2024-11-29T19:36:01 IST" duration-ms="6756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="revenueCalculatorTest()[pri:0, instance:Test.RevenueCalculator_TC@59402b8f]" started-at="2024-11-29T19:36:01 IST" name="revenueCalculatorTest" finished-at="2024-11-29T19:36:30 IST" duration-ms="28477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- revenueCalculatorTest -->
+      </class> <!-- Test.RevenueCalculator_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
